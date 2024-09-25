@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Magaswaran
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on web developing project 
 - 📫 To reach me in linkedin
-- 
+- This readme file is for nothing because i don't have create any coding 
 
 <!---
 Magaswaran/Magaswaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
