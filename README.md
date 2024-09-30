@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Magaswaran
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning computer science engineering 
-- 📫 To reach me in linkedin
+- 🌱 I’m currently persuing BE CSE
+- .. I'm currently learning JAVA 
+- 📫 To reach me in www.linkedin.com/in/magaswaran/
 
 <!---
 Magaswaran/Magaswaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
