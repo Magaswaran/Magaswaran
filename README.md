@@ -5,7 +5,7 @@
 <p>Hello!👋 I am Magaswaran, iam currently pursuing B.E-CSE at Anna University</p>
 <p>Currently Volunteering as a Beta Microsoft Learn Student Ambassador, Community Builder ✌</p>
 <p>I love to join different community and competition that involve creating something for the soceity! 🙋‍♂️</p>
-- 🌱 I’m currently learning **Azure, Java, Spring, Website Developement, etc...**
+- 🌱 I’m currently learning <b>Azure, Java, Spring, Website Developement, etc...</b>
 
 - 📫 How to reach me **E-Mail📧:magaswaran2005@gmail.com**
 
