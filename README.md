@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, Welcome!</h1>
 <h3 align="center">A passionate Student Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aaef775a93ae071cbf966dfb409c9e5f3fbba0742264bb16473ac426a69106a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343432323831362f73637265656e73686f74732f383830333736352f6d656469612f66666662333038643164376132346138363837333436633537616531666633362e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magaswaran&label=Profile%20views&color=0e75b6&style=flat" alt="magaswaran" /> </p>
 <p>Hello!👋 I am Magaswaran, iam currently pursuing B.E-CSE at Anna University</p>
 <p>Currently Volunteering as a Beta Microsoft Learn Student Ambassador, Community Builder ✌</p>
